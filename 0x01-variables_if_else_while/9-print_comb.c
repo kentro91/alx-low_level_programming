@@ -16,9 +16,9 @@ printf("%d", num);
 if (num != 10)
 {
 printf(',');
-printf(' ');
+putchar(' ');
 }
 }
-printf('\n');
+putchar('\n');
 return (0);
 }
