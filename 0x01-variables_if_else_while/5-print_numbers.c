@@ -11,9 +11,7 @@ int main(void)
 int ken;
 
 for (ken = 0; ken < 10; ken++)
-{
 printf("%d", ken);
-}
-printf('\n');
+printf("\n");
 return (0);
 }
