@@ -10,7 +10,7 @@ int main(void)
 
 int ken;
 
-for (ken = 0; ken <= 20; ken++)
+for (ken = 0; ken <= 10; ken++)
 {
 putchar(ken);
 }
