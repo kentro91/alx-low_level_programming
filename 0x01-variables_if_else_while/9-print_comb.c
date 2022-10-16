@@ -11,14 +11,14 @@ int num;
 
 for (num = 0; num <= 10; num++)
 {
-putchar(num);
+printf(num);
 
 if (num != 10)
 {
-putchar(',');
-putchar(' ');
+printf(',');
+printf(' ');
 }
 }
-putchar('\n');
+printf('\n');
 return (0);
 }
