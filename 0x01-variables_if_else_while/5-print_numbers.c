@@ -12,8 +12,8 @@ int ken;
 
 for (ken = 0; ken < 10; ken++)
 {
-putchar(ken);
+printf("%d", ken);
 }
-putchar('\n');
+printf('\n');
 return (0);
 }
