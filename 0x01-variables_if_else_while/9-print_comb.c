@@ -11,11 +11,11 @@ int num;
 
 for (num = 0; num <= 10; num++)
 {
-printf("%d", num);
+putchar("%d", num);
 
 if (num != 10)
 {
-printf(',');
+putchar(',');
 putchar(' ');
 }
 }
