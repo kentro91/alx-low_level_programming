@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlih.h>
+#include <stdlib.h>
 #include <time.h>
 /**
 * assign a random positive and negative number to a variable n
