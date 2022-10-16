@@ -12,7 +12,6 @@ char ken;
 for (ken = 'a'; ken <= 'z'; ken++)
 {
 if (ken != 'q' && ken != 'e')
-{
 putchar(ken);
 }
 putchar('\n');
