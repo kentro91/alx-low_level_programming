@@ -18,6 +18,7 @@ if (num != 10)
 putchar(',');
 putchar(' ');
 }
+}
 putchar('\n');
 return (0);
 }
