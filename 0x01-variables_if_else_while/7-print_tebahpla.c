@@ -11,7 +11,7 @@ int main(void)
 char ken;
 for (ken = 'z'; ken <= 'a'; ken++)
 {
-putchar((num % 10) + '0');
+putchar(ken);
 putchar('\n');
 return (0);
 }
