@@ -1,7 +1,0 @@
-#include <stdio.h>
-/**
-*
-* program that prints _putchar, followed by a new line
-* Allways: Return 0
-*/
-
