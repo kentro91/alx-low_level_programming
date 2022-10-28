@@ -22,7 +22,7 @@ j = 0;
 while (j < n && src[j] != '\0')
 {
 dest[i] = src[j];
-i++;      
+i++;
 j++;
 }
 dest[i] = '\0';
